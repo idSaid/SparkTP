@@ -1,0 +1,7 @@
+Spark réalise une lecture des données au niveau du Cluster (grappe de serveurs sur un réseau),
+effectue toutes les opérations d'analyse nécessaires, puis écrit les résultats à ce même niveau. France
+Malgré le fait qu'il s'écrit avec les langages Scala, Java et Python,
+il utilise au mieux ses capacités avec son langage natif, Scala10. France
+
+
+
